@@ -9,6 +9,6 @@ navbarheight: 55px
 logo: ../uploads/typo-2.png
 favicon: ../uploads/typo-2.png
 gridlayout: false
-fixednavbar: false
+fixednavbar: true
 upzoom: true
 items: []
