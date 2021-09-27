@@ -1,29 +1,15 @@
 ---
 layout: post
-title: Here is a blog post sample
+title: The Design Agency Behind Your Favourite Sports Typefaces
 date: 2020-06-24 17:50
-image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
-caption: Cobbles
+image: ../uploads/dixonbaxi_espn_1_grade.jpg
+caption: DixonBaxi rebranded ESPN in the Netherlands in 2018
 ---
+**Typography is an essential part of the sports viewing experience; inextricably linked to how well fans process and engage with any given sport.** From scoreboards to statistics, nailing the right typeface can add an elite, sleek and professional edge to a sports broadcaster's coverage. Behind fonts used by ESPN, Eurosport and Premier League Productions sits creative design agency DixonBaxi, founded in 2001 by long-time creatives Simon Dixi and Aprova Baxi.
 
-**Please do not edit this post.** You should create a new post and then delete this sample when you are ready. Do not delete this post until you have created at least one of your own. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. Only the first paragraph will appear on the home page.
-
-The `image` is optional and you should enter the path to it in the metadata above.
-
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
+![Here is a book](../uploads/dixonbaxi_espn_1_grade.jpg)
 
 
-![Here is a book](../uploads/pages.jpg)
-
-By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
-
-It sportsman earnestly ye preserved an on. Moment led family sooner cannot her window pulled any. Or raillery if improved landlord to speaking hastened differed he. Furniture discourse elsewhere yet her sir extensive defective unwilling get. Why resolution one motionless you him thoroughly. Written address greatly get attacks inhabit pursuit our but. Lasted hunted enough an up seeing in lively letter. Had judgment out opinions property the supplied.
-
-Dependent certainty off discovery him his tolerably offending. Ham for attention remainder sometimes additions recommend fat our. Direction has strangers now believing. Respect enjoyed gay far exposed parlors towards. Enjoyment use tolerably dependent listening men. No peculiar in handsome together unlocked do by. Article concern joy anxious did picture sir her.
-
-Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
-
-## Here is a an image
 
 ![Wooden Type](../uploads/log.jpg)
 
