@@ -1,6 +1,6 @@
 title: TypoGodfrey
 description: Thomas Godfrey's Typography blog
-footer_text: (C) 2021 Pimp T
+footer_text: (C) 2021 TypoGodfrey
 header_feature_image: ../uploads/typo-blog-banner-2240-x-500-px-.png
 header_text: ""
 header_text_color: "#ffffff"
@@ -8,7 +8,7 @@ bannerheight: 20vmax
 navbarheight: 55px
 logo: ../uploads/typo-2.png
 favicon: ../uploads/typo-3.ico
-gridlayout: false
+gridlayout: true
 fixednavbar: true
 upzoom: true
 items: []
