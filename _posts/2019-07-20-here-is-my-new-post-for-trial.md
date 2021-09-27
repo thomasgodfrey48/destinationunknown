@@ -3,7 +3,7 @@ layout: post
 title: The Design Agency Behind Your Favourite Sports Typefaces
 date: 2020-06-24 17:50
 image: ../uploads/dixonbaxi_espn_1_grade.jpg
-caption: Cobbles
+caption: DixonBaxi rebranded ESPN in the Netherlands in 2018
 ---
 **Typography is an essential part of the sports viewing experience; inextricably linked to how well fans process and engage with any given sport.** From scoreboards to statistics, nailing the right typeface can add an elite, sleek and professional edge to a sports broadcaster's coverage. Behind fonts used by ESPN, Eurosport and Premier League Productions sits creative design agency DixonBaxi, founded in 2001 by long-time creatives Simon Dixi and Aprova Baxi.
 
