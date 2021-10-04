@@ -17,6 +17,6 @@ Specifically, when designing the 2018 Winter Olympics broadcast font, agency cre
 
 ![Eurosport PyongChang font](../uploads/dixonbaxi_es_pc_2018_19.jpg)
 
-That typeface was Eurosport PyongChang, custom-made for the games. With offshooting serif's on selected letters and no contrast, this sophisticated yet bold, impactful font demonstrates the eliteness of the games whilst not altering the viewing experience or making Eurosport's branding unintelligible. It was necessary for the typeface to be as understandable as possible 
+That typeface was Eurosport PyongChang, custom-made for the games. With offshooting serif's on selected letters and no contrast, this sophisticated yet bold, impactful font demonstrates the eliteness of the games whilst not altering the viewing experience or making Eurosport's branding unintelligible. It was necessary for the typeface to be as understandable as possible, as over 330 million viewers accessed Eurosport's Olympic content across digital platforms and terrestrial television during 
 
 ![Eurosport Logos](../uploads/dixonbaxi_ac_milan_24.jpg)
