@@ -6,8 +6,8 @@ header_text: ""
 header_text_color: "#ffffff"
 bannerheight: 20vmax
 navbarheight: 55px
-logo: ../uploads/typo-2.png
-favicon: ../uploads/typo-3.ico
+logo: ../uploads/typo-4.png
+favicon: ../uploads/typo-4.ico
 gridlayout: false
 fixednavbar: true
 upzoom: true
