@@ -17,6 +17,14 @@ Specifically, when designing the 2018 Winter Olympics broadcast font, agency cre
 
 ![Eurosport PyongChang font](../uploads/dixonbaxi_es_pc_2018_19.jpg)
 
-That typeface was Eurosport PyongChang, custom-made for the games. With offshooting serif's on selected letters and no contrast, this sophisticated yet bold, impactful font demonstrates the eliteness of the games whilst not altering the viewing experience or making Eurosport's branding unintelligible. It was necessary for the typeface to be as understandable as possible, as over 330 million viewers accessed Eurosport's Olympic content across digital platforms and terrestrial television during 
+That typeface was Eurosport PyongChang, custom-made for the games. With offshooting serif's on selected letters and no contrast, this sophisticated yet bold, impactful font demonstrates the eliteness of the games whilst not altering the viewing experience or making Eurosport's branding unintelligible. It was necessary for the typeface to be as understandable as possible, as over 330 million viewers accessed Eurosport's Olympic content across digital platforms and terrestrial television during the course of the games.
 
-![Eurosport Logos](../uploads/dixonbaxi_ac_milan_24.jpg)
+In addition to the iconic Olympic brand, DixonBaxi were also handed the mammoth task of redesigning the world feed graphics, typeface, music and titles for the Premier League. Seen by over 2 billion people, the clean, modern and streamlined interface is utilised across all Premier League Production (the IMG-operated company contracted to produce feeds for all EPL matches, alongside a range of studio and magazine programmes) shows, as well as in the league’s social media output.
+
+In association with DesignStudio and Monotype, the font “Premier League” was created, utilising sans-serif, zero-contrast, clear yet stylish lettering to strike what Monotype labelled a “more conversational tone”. A unique element of a new EPL typeface is that it would need to be a true “workhorse”, for use across print, mobile, broadcast, in-stadium-screens, social media and even in games such as the Fifa series.
+
+![](../uploads/42adda06-db7f-47c8-ae6c-e5daa5b9129f.gif)
+
+In 2017, this rebrand was nominated for The Beazley Designs of the Year award, and displayed in Kensington’s Design Museum.
+
+![Eurosport Logos](../uploads/7b55ad52-a550-48e0-b1d1-55afa7fc712e.jpeg)
