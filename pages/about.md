@@ -1,20 +1,16 @@
 ---
-layout: page
+header_feature_image: /uploads/log.jpg
 title: About
+image: ../uploads/4c03bc63dcf9853e050dd688b0d05772.jpeg
+subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+layout: page
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
 show: false
 ---
+Currently a first-year media, journalism and publishing student at Oxford Brookes University, Thomas E. Godfrey is originally from Bournemouth. His first taste of journalism was in Year 9, covering his school’s football and rugby teams and writing website blog posts. 
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
-
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+Prior to university, Thomas spent time as an intern at Yahoo News and HuffPost UK, as well as learning key marketing and branding skills at The Goat Agency. Thomas is currently an ambassador and writer for the political and media literacy network ShoutOut UK. For more, go to www.thomasgodfrey.co.uk
