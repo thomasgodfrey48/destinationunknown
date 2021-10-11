@@ -3,7 +3,7 @@ layout: post
 title: The Design Agency Behind Your Favourite Sports Typefaces
 date: 2021-09-28T09:20:26.866Z
 image: ../uploads/dixonbaxi_espn_1_grade.jpg
-caption: DixonBaxi rebranded ESPN in the Netherlands in 2018
+caption: ""
 tags:
   - Design
 ---
