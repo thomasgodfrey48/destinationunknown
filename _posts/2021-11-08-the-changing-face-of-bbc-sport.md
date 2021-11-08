@@ -10,10 +10,16 @@ As the nation's broadcaster, the BBC has been a key perveyor of sports coverage 
 
 Live broadcasts first became a feature in 1954 with the World Cup beamed in from the Wankdorfstadion in Switzerland, with staple Match of the Day first entering screens in 1964.
 
-The BBC continued to broadcast sport across its new channels without any form of centralised branding or typography until 1988, when the first BBC Sport visua identity was introduced. Prior to this, individual shows had used their own branding, such as Grandstand and Sportsnight, but without any central, core identity. 
+The BBC continued to broadcast sport across its new channels without any form of centralised branding or typography until 1988, when the first BBC Sport visual identity was introduced. Prior to this, individual shows had used their own branding, such as Grandstand and Sportsnight, but without any central, core identity. 
 
 The new ident coincided with the formation of the BBC's Sport unit itself, as, prior to the late-80's, sports had been controlled by indivudual channel controllers (including David Attenborough, who, as controller of BBC 2, founded the Floodlit Rugby League TV Trophy in 1965. It ran until 1980).
 
 ![](../uploads/hqdefault.jpg "BBC Sport's first ident, 1988-1992")
 
-This featured the slanted BBC logo, combined with an italicised, zero-contrast capitalised sans-serif typeface. Whilst the tricolor BBC slant
+This featured the slanted BBC logo, combined with an italicised, zero-contrast capitalised sans-serif typeface. Whilst the tricolor BBC
+
+
+
+
+
+![](../uploads/hqdefault-3.jpg "BBC Sport Logo ")
