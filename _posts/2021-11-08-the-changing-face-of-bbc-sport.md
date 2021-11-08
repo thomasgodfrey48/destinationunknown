@@ -38,9 +38,7 @@ Commenting on the use of a well known, longstanding font (once labelled the 'Hel
 
 ![](../uploads/bbc-logos.png)
 
-This shift to Gill Sans, a zero-contrast, non-italicised, clean and (overwhelmingly corporate) sans-serif font
-
-Gill Sans was used until 2017 across the BBC, and was fully removed in October 2021 to be replaced by the in-house BBC Reith font, which is now used in the BBC's logo.
+This shift to Gill Sans, a zero-contrast, non-italicised, clean and (overwhelmingly corporate) sans-serif font. Gill Sans was used until 2017 across the BBC, and was fully removed in October 2021 to be replaced by the in-house BBC Reith font, which is now used in the BBC's logo.
 
 ## 2017-2021
 
@@ -55,7 +53,5 @@ In August 2017 BBC Sport switched from Gill Sans to BBC Reith across its website
 From 2022, all of the BBC's output will rebrand to further its drive for "modernisation". For BBC Sport, this means that for the first time, yellow will become the sole brand colour (with black phased out of the logo), and that a more sophisticated graphics overhaul is to be expected in the new year.
 
 ![](../uploads/bbc_sport_-282021-29.png "BBC Sport 2022 logo")
-
-
 
 ![](../uploads/bbc-2021-.png "BBC Reith font")
