@@ -48,7 +48,7 @@ In August 2017 BBC Sport switched from Gill Sans to BBC Reith across its website
 
 ![](../uploads/bbc-2017-.jpg)
 
-## 2022 -
+## 2022 Onwards
 
 From 2022, all of the BBC's output will rebrand to further its drive for "modernisation". For BBC Sport, this means that for the first time, yellow will become the sole brand colour (with black phased out of the logo), and that a more sophisticated graphics overhaul is to be expected in the new year.
 
