@@ -42,4 +42,4 @@ Erasmus' penchant for culturally African font began in 2007, when he released
 
 ## 2022 - Qat_ar
 
-![](../uploads/fifa-world-cup-qatar-20229564.jpg)
+![](../uploads/fifa-world-cup-qatar-20229564.jpg "Qatar 2022 Font ")
