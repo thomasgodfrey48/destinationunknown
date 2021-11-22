@@ -16,8 +16,6 @@ For the first time, the 2006 World Cup came with its own font, Welcome, produced
 
 ![](../uploads/fifa_welcome0.png "Welcome stencil pad")
 
-
-
 ## 2010 - Menyaka
 
 ![](../uploads/fifa_world_cup_2010_logo.png "2010 World Cup logo with Manyaka font")
@@ -26,4 +24,22 @@ In the first font to feature cultural elements of the nation hosting the World C
 
 ![](../uploads/1-charmap-menkaya-font.png "Manyaka stencil pad")
 
-Erasmus' penchant for culturally African font began in 2007, when he released
+Erasmus' penchant for culturally African font began in 2007, when he released 
+
+## 2014 - Pagode (Bold)
+
+![](../uploads/fifa-world-cup-2014-pagode-font.png "2014 World Cup logo with Pagode font stencil")
+
+
+
+
+
+## 2018 - Dusha
+
+
+
+
+
+## 2022 - Qat_ar
+
+![](../uploads/fifa-world-cup-qatar-20229564.jpg "Qatar 2022 Font ")
