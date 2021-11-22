@@ -2,6 +2,7 @@
 layout: post
 title: The Fonts of the World Cup - a retrospective
 date: 2021-11-22T14:25:34.103Z
+image: ../uploads/hi-res-1c4185e5a46e755187eafe7c3284e6ae_crop_north.jpg
 title_color: "#ffffff"
 comments: false
 ---
