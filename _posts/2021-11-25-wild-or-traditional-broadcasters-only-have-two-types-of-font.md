@@ -19,7 +19,7 @@ For years, we have flipped between the two, brands never quite settling on which
 
 Don't believe me?
 
-Growing up in a house with a Sky Sports subscription (when it was good) meant from a young age, I was transfixed by Spanish football. Sky held the rights to La Liga for over two decades, before upstart streaming platform Eleven Sports outbid them in 2019. 
+Growing up in a house with a Sky Sports subscription (when it had everything) meant from a young age, I was transfixed by Spanish football. Sky held the rights to La Liga for over two decades, before upstart streaming platform Eleven Sports outbid them in 2019. 
 
 There are three things I remember from those broadcasts: the spellbinding brilliance of Lionel Messi and Cristiano Ronaldo, the signature jingle... and the font.
 
