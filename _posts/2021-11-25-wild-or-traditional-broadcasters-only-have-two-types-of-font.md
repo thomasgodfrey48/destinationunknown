@@ -2,6 +2,7 @@
 layout: post
 title: Wild or traditional? Broadcasters only have two types of font.
 date: 2021-11-25T21:53:22.518Z
+image: ../uploads/cdb809c01916b2f13fd607bdc756f224.jpg
 title_color: "#ffffff"
 comments: false
 ---
