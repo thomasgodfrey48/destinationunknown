@@ -58,7 +58,7 @@ Incredibly, one of F1’s ugliest cars was also involved in two of its biggest c
 
 On Villeneuve’s first qualifying run, he lost control at the top of Eau Rouge, careering into the barrier and rolling the car (pictured below). Not to be outdone, Zonta (pictured left) lost control of his twin-liveried car, careering into a tyre wall at 170mph, before his car was spat across the track into the gravel. The damage to the cars cost £4.5 million, but both drivers only suffered bruised egos.
 
-<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=wGZFio88QYA?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/wGZFio88QYA?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## The Stupid - Ferrari's SF21
 
