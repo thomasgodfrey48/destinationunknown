@@ -2,6 +2,7 @@
 layout: post
 title: "200mph Marketing: The Good, Bad and The Ugly of Sponsor Typefaces on F1 Cars"
 date: 2021-12-06T15:21:34.836Z
+image: ../uploads/fia_f1_austria_2021_nr._16_leclerc_-side-.jpg
 title_color: "#ffffff"
 comments: false
 ---
