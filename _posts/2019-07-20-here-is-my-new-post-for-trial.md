@@ -19,8 +19,6 @@ That typeface was Eurosport PyongChang, custom-made for the games. With offshoot
 
 In addition to the iconic Olympic brand, DixonBaxi were also handed the mammoth task of redesigning the world feed graphics, typeface, music and titles for the Premier League. Seen by over 2 billion people, the clean, modern and streamlined interface is utilised across all Premier League Production (the IMG-operated company contracted to produce feeds for all EPL matches, alongside a range of studio and magazine programmes) shows, as well as in the league’s social media output.
 
-
-
 ![](../uploads/42adda06-db7f-47c8-ae6c-e5daa5b9129f.gif)
 
 In association with DesignStudio and Monotype, the font “Premier League” was created, utilising sans-serif, zero-contrast, clear yet stylish lettering to strike what Monotype labelled a “more conversational tone”. A unique element of a new EPL typeface is that it would need to be a true “workhorse”, for use across print, mobile, broadcast, in-stadium-screens, social media and even in games such as the Fifa series.
@@ -28,3 +26,9 @@ In association with DesignStudio and Monotype, the font “Premier League” was
 In 2017, this rebrand was nominated for The Beazley Designs of the Year award, and displayed in Kensington’s Design Museum.
 
 ![Eurosport Logos](../uploads/7b55ad52-a550-48e0-b1d1-55afa7fc712e.jpeg)
+
+## Font at a glance: Premier League
+
+**The DixonBaxi/Monotype Premier League font is a clean, sans-serif multi-variant font designed primarily for screens and to be easily understood by a global audience. It, crucially, fits the brand image of the Premier League and looks at ease next to the redrawn Premier League lion.**
+
+**On the lower case ‘g’ and ‘r’ letters, small ears have been used, potentially to give the font a formal feel without overcomplicating it’s appearance, which would then risk making the font less legible than it could be - which - for a global broadcast, going out to millions of non-native or weak English readers, is simply a ‘goalline’ that cannot be crossed.**
